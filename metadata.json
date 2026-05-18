@@ -1,0 +1,6 @@
+{
+  "name": "Gourmet Garden",
+  "description": "A premium artisan food shop offering farm-to-table delicacies and handcrafted meals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
